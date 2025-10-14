@@ -1,3 +1,6 @@
 [submodule "portfolio-backend-fastapi"]
 	path = portfolio-backend-fastapi
 	url = https://github.com/portfolio-pugavkomm/portfolio-backend-fastapi.git
+[submodule "portfolio-angular-client"]
+	path = portfolio-angular-client
+	url = https://github.com/portfolio-pugavkomm/portfolio-angular-client.git
