@@ -1,0 +1,3 @@
+[submodule "portfolio-backend-fastapi"]
+	path = portfolio-backend-fastapi
+	url = https://github.com/portfolio-pugavkomm/portfolio-backend-fastapi.git
